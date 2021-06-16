@@ -1,0 +1,1 @@
+https://www.linkedin.com/pulse/prototype-design-pattern-c-golam-mostofa/
