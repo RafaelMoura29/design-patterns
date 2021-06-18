@@ -1,0 +1,13 @@
+C:\Users\rafae\dev\design-patterns\Creational Patterns\Builder\builder\bin\Debug\netcoreapp3.1\builder.exe
+C:\Users\rafae\dev\design-patterns\Creational Patterns\Builder\builder\bin\Debug\netcoreapp3.1\builder.deps.json
+C:\Users\rafae\dev\design-patterns\Creational Patterns\Builder\builder\bin\Debug\netcoreapp3.1\builder.runtimeconfig.json
+C:\Users\rafae\dev\design-patterns\Creational Patterns\Builder\builder\bin\Debug\netcoreapp3.1\builder.runtimeconfig.dev.json
+C:\Users\rafae\dev\design-patterns\Creational Patterns\Builder\builder\bin\Debug\netcoreapp3.1\builder.dll
+C:\Users\rafae\dev\design-patterns\Creational Patterns\Builder\builder\bin\Debug\netcoreapp3.1\builder.pdb
+C:\Users\rafae\dev\design-patterns\Creational Patterns\Builder\builder\obj\Debug\netcoreapp3.1\builder.csprojAssemblyReference.cache
+C:\Users\rafae\dev\design-patterns\Creational Patterns\Builder\builder\obj\Debug\netcoreapp3.1\builder.AssemblyInfoInputs.cache
+C:\Users\rafae\dev\design-patterns\Creational Patterns\Builder\builder\obj\Debug\netcoreapp3.1\builder.AssemblyInfo.cs
+C:\Users\rafae\dev\design-patterns\Creational Patterns\Builder\builder\obj\Debug\netcoreapp3.1\builder.csproj.CoreCompileInputs.cache
+C:\Users\rafae\dev\design-patterns\Creational Patterns\Builder\builder\obj\Debug\netcoreapp3.1\builder.dll
+C:\Users\rafae\dev\design-patterns\Creational Patterns\Builder\builder\obj\Debug\netcoreapp3.1\builder.pdb
+C:\Users\rafae\dev\design-patterns\Creational Patterns\Builder\builder\obj\Debug\netcoreapp3.1\builder.genruntimeconfig.cache
