@@ -4,7 +4,7 @@
 - [x] Builder
 - [x] Factory Method
 - [x] Prototype
-- [ ] Singleton
+- [x] Singleton
 
 ## **Structural Patterns**
 
