@@ -28,4 +28,4 @@
 - [ ] State
 - [ ] Strategy
 - [ ] Template Metho
-- [ ] Visitor
+- [x] Visitor
