@@ -1,0 +1,13 @@
+C:\Users\rafae\dev\design-patterns\Creational Patterns\Factory Method\bin\Debug\netcoreapp3.1\FactoryMethod2.exe
+C:\Users\rafae\dev\design-patterns\Creational Patterns\Factory Method\bin\Debug\netcoreapp3.1\FactoryMethod2.deps.json
+C:\Users\rafae\dev\design-patterns\Creational Patterns\Factory Method\bin\Debug\netcoreapp3.1\FactoryMethod2.runtimeconfig.json
+C:\Users\rafae\dev\design-patterns\Creational Patterns\Factory Method\bin\Debug\netcoreapp3.1\FactoryMethod2.runtimeconfig.dev.json
+C:\Users\rafae\dev\design-patterns\Creational Patterns\Factory Method\bin\Debug\netcoreapp3.1\FactoryMethod2.dll
+C:\Users\rafae\dev\design-patterns\Creational Patterns\Factory Method\bin\Debug\netcoreapp3.1\FactoryMethod2.pdb
+C:\Users\rafae\dev\design-patterns\Creational Patterns\Factory Method\obj\Debug\netcoreapp3.1\FactoryMethod2.csprojAssemblyReference.cache
+C:\Users\rafae\dev\design-patterns\Creational Patterns\Factory Method\obj\Debug\netcoreapp3.1\FactoryMethod2.AssemblyInfoInputs.cache
+C:\Users\rafae\dev\design-patterns\Creational Patterns\Factory Method\obj\Debug\netcoreapp3.1\FactoryMethod2.AssemblyInfo.cs
+C:\Users\rafae\dev\design-patterns\Creational Patterns\Factory Method\obj\Debug\netcoreapp3.1\FactoryMethod2.csproj.CoreCompileInputs.cache
+C:\Users\rafae\dev\design-patterns\Creational Patterns\Factory Method\obj\Debug\netcoreapp3.1\FactoryMethod2.dll
+C:\Users\rafae\dev\design-patterns\Creational Patterns\Factory Method\obj\Debug\netcoreapp3.1\FactoryMethod2.pdb
+C:\Users\rafae\dev\design-patterns\Creational Patterns\Factory Method\obj\Debug\netcoreapp3.1\FactoryMethod2.genruntimeconfig.cache

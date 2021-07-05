@@ -1,0 +1,17 @@
+C:\Users\rafaelserafim\personal-dev\design-patterns\FactoryMethod2\obj\Debug\net5.0\FactoryMethod2.csprojAssemblyReference.cache
+C:\Users\rafaelserafim\personal-dev\design-patterns\FactoryMethod2\obj\Debug\net5.0\FactoryMethod2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafaelserafim\personal-dev\design-patterns\FactoryMethod2\obj\Debug\net5.0\FactoryMethod2.AssemblyInfoInputs.cache
+C:\Users\rafaelserafim\personal-dev\design-patterns\FactoryMethod2\obj\Debug\net5.0\FactoryMethod2.AssemblyInfo.cs
+C:\Users\rafaelserafim\personal-dev\design-patterns\FactoryMethod2\obj\Debug\net5.0\FactoryMethod2.csproj.CoreCompileInputs.cache
+C:\Users\rafaelserafim\personal-dev\design-patterns\FactoryMethod2\bin\Debug\net5.0\FactoryMethod2.exe
+C:\Users\rafaelserafim\personal-dev\design-patterns\FactoryMethod2\bin\Debug\net5.0\FactoryMethod2.deps.json
+C:\Users\rafaelserafim\personal-dev\design-patterns\FactoryMethod2\bin\Debug\net5.0\FactoryMethod2.runtimeconfig.json
+C:\Users\rafaelserafim\personal-dev\design-patterns\FactoryMethod2\bin\Debug\net5.0\FactoryMethod2.runtimeconfig.dev.json
+C:\Users\rafaelserafim\personal-dev\design-patterns\FactoryMethod2\bin\Debug\net5.0\FactoryMethod2.dll
+C:\Users\rafaelserafim\personal-dev\design-patterns\FactoryMethod2\bin\Debug\net5.0\ref\FactoryMethod2.dll
+C:\Users\rafaelserafim\personal-dev\design-patterns\FactoryMethod2\bin\Debug\net5.0\FactoryMethod2.pdb
+C:\Users\rafaelserafim\personal-dev\design-patterns\FactoryMethod2\obj\Debug\net5.0\FactoryMethod2.dll
+C:\Users\rafaelserafim\personal-dev\design-patterns\FactoryMethod2\obj\Debug\net5.0\ref\FactoryMethod2.dll
+C:\Users\rafaelserafim\personal-dev\design-patterns\FactoryMethod2\obj\Debug\net5.0\FactoryMethod2.pdb
+C:\Users\rafaelserafim\personal-dev\design-patterns\FactoryMethod2\obj\Debug\net5.0\FactoryMethod2.genruntimeconfig.cache
+C:\Users\rafae\dev\design-patterns\Creational Patterns\Factory Method\obj\Debug\net5.0\FactoryMethod2.pdb
