@@ -1,0 +1,13 @@
+C:\Users\rafae\dev\design-patterns\Behavioral Patterns\Strategy\bin\Debug\netcoreapp3.1\Strategy.exe
+C:\Users\rafae\dev\design-patterns\Behavioral Patterns\Strategy\bin\Debug\netcoreapp3.1\Strategy.deps.json
+C:\Users\rafae\dev\design-patterns\Behavioral Patterns\Strategy\bin\Debug\netcoreapp3.1\Strategy.runtimeconfig.json
+C:\Users\rafae\dev\design-patterns\Behavioral Patterns\Strategy\bin\Debug\netcoreapp3.1\Strategy.runtimeconfig.dev.json
+C:\Users\rafae\dev\design-patterns\Behavioral Patterns\Strategy\bin\Debug\netcoreapp3.1\Strategy.dll
+C:\Users\rafae\dev\design-patterns\Behavioral Patterns\Strategy\bin\Debug\netcoreapp3.1\Strategy.pdb
+C:\Users\rafae\dev\design-patterns\Behavioral Patterns\Strategy\obj\Debug\netcoreapp3.1\Strategy.csprojAssemblyReference.cache
+C:\Users\rafae\dev\design-patterns\Behavioral Patterns\Strategy\obj\Debug\netcoreapp3.1\Strategy.AssemblyInfoInputs.cache
+C:\Users\rafae\dev\design-patterns\Behavioral Patterns\Strategy\obj\Debug\netcoreapp3.1\Strategy.AssemblyInfo.cs
+C:\Users\rafae\dev\design-patterns\Behavioral Patterns\Strategy\obj\Debug\netcoreapp3.1\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\rafae\dev\design-patterns\Behavioral Patterns\Strategy\obj\Debug\netcoreapp3.1\Strategy.dll
+C:\Users\rafae\dev\design-patterns\Behavioral Patterns\Strategy\obj\Debug\netcoreapp3.1\Strategy.pdb
+C:\Users\rafae\dev\design-patterns\Behavioral Patterns\Strategy\obj\Debug\netcoreapp3.1\Strategy.genruntimeconfig.cache
